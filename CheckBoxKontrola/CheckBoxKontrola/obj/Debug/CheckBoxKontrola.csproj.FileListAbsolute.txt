@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\CheckBoxKontrola\CheckBoxKontrola\bin\Debug\CheckBoxKontrola.exe.config
+C:\Users\ucenik\source\repos\CheckBoxKontrola\CheckBoxKontrola\bin\Debug\CheckBoxKontrola.exe
+C:\Users\ucenik\source\repos\CheckBoxKontrola\CheckBoxKontrola\bin\Debug\CheckBoxKontrola.pdb
+C:\Users\ucenik\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\CheckBoxKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\CheckBoxKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\CheckBoxKontrola.Form1.resources
+C:\Users\ucenik\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\CheckBoxKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\CheckBoxKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\CheckBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\CheckBoxKontrola.exe
+C:\Users\ucenik\source\repos\CheckBoxKontrola\CheckBoxKontrola\obj\Debug\CheckBoxKontrola.pdb
